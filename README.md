@@ -1,7 +1,7 @@
 ### Hi there 👋🤔
 ### 산타는 개발자 Github을 방문해 주셔서 감사합니다
 
-### :✨ : Languages
+### ✨ : Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-green?style=flat&logo=Kotlin&logoColor=white")
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=white")
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=white")
