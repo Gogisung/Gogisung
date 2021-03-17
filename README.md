@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 산타는 개발자 Github을 방문해 주셔서 감사합니다
 
 <!--
 **Gogisung/Gogisung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
