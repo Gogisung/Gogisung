@@ -4,10 +4,7 @@
 ### :cyclone: Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-green?style=flat&logo=Kotlin&logoColor=white")
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=white")
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
-![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=white")
 
 [![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)](https://www.credential.net/28bacf68-2290-412e-a7cb-8b12ce4204de)
 
